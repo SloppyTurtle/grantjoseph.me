@@ -1,0 +1,21 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Grant Joseph'
+theme = "hyde"
+
+## Main Menu
+[[menu.main]]
+    name = "About"
+    weight = 100
+    identifier = "posts"
+    url = "/posts/About Me"
+[[menu.main]]
+    name = "LinkedIn"
+    identifier = "LinkedIn"
+    weight = 200
+    url = "https://www.linkedin.com/in/grant-joseph-35b359116/"
+
+## Paramaters
+[params]
+themeColor = "theme-base-0d"
+description = "My World"
