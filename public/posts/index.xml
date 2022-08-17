@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Grant Joseph</title>
-    <link>http://example.org/posts/</link>
+    <link>http://grantjoseph.me/posts/</link>
     <description>Recent content in Posts on Grant Joseph</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Aug 2022 10:57:14 -0500</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 17 Aug 2022 10:57:14 -0500</lastBuildDate><atom:link href="http://grantjoseph.me/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Me</title>
-      <link>http://example.org/posts/about-me/</link>
+      <link>http://grantjoseph.me/posts/about-me/</link>
       <pubDate>Wed, 17 Aug 2022 10:57:14 -0500</pubDate>
       
-      <guid>http://example.org/posts/about-me/</guid>
-      <description>test post</description>
+      <guid>http://grantjoseph.me/posts/about-me/</guid>
+      <description>I&amp;rsquo;ve been doing sysadmin/managerial work for about 7 years now and have always had a curiosity about the infosec side of my jobs. About 2 years ago, I took on an IT management role and figured that was where I would be gearing my skills towards. Because of my combined sysadmin/management experience, I snagged the role of the IT/IS Officer at a small local bank. This position is what got me looking into the vast domain that is Information Security.</description>
     </item>
     
   </channel>
