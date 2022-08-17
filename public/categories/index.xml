@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Grant Joseph</title>
-    <link>https://grantjoseph.me/categories/</link>
+    <link>http://grantjoseph.me/categories/</link>
     <description>Recent content in Categories on Grant Joseph</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://grantjoseph.me/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="http://grantjoseph.me/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
