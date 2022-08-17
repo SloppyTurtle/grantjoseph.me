@@ -1,4 +1,4 @@
-baseURL = 'https://grantjoseph.me/'
+baseURL = 'http://grantjoseph.me/'
 languageCode = 'en-us'
 title = 'Grant Joseph'
 theme = "hyde"
