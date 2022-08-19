@@ -1,7 +1,7 @@
-baseURL = "http://grantjoseph.me"
+baseURL = "https://example.com"
 languageCode = "en-us"
 defaultContentLanguage = "en"
-title = "Grant Joseph"
+title = "Hugo Hermit"
 theme = "hermit"
 # enableGitInfo = true
 pygmentsCodefences  = true
@@ -14,7 +14,7 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
 # disqusShortname = "yourdiscussshortname"
 
 [author]
-  name = "Grant Joseph"
+  name = "John Doe"
 
 [blackfriday]
   # hrefTargetBlank = true
@@ -56,12 +56,16 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
   # Social Icons
   # Check https://github.com/Track3/hermit#social-icons for more info.
   [[params.social]]
-    name = "linkedin"
-    url = "https://www.linkedin.com/in/grant-joseph-35b359116/"
+    name = "twitter"
+    url = "https://twitter.com/"
+
+  [[params.social]]
+    name = "instagram"
+    url = "https://instagram.com/"
 
   [[params.social]]
     name = "github"
-    url = "https://github.com/SloppyTurtle"
+    url = "https://github.com/"
 
 [menu]
 
