@@ -65,7 +65,7 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
 
   [[params.social]]
     name = "email"
-    url = "grant@josephs.us"
+    url = "mailto:grant@josephs.us"
 
 [menu]
 
@@ -77,4 +77,9 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
   [[menu.main]]
     name = "About"
     url = "about-hugo/"
+    weight = 20
+
+  [[menu.main]]
+    name = "Resume"
+    url = "https://resume.grantjoseph.me/"
     weight = 20
